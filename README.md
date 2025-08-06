@@ -1,5 +1,5 @@
 # DataImmersionAchievement6
-This is a personal project created for my Data Immersion Achievement 6 for Career Foundry
+This is a personal project created for my Data Immersion Achievement 6 for Career Foundry in which I looked at baseball statistics and showed some of the connections between different stats.
 
 This data was sourced from baseball-reference.com 
 
